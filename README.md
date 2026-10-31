@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Local AI Chatbot Banner">
+</p>
 # 🤖 Local AI Chatbot
 
 ### Your own AI assistant, powered by locally running language models.
